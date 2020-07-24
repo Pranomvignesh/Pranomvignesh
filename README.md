@@ -13,5 +13,7 @@ Hi, My name is Vignesh, I'm currently working in Zoho Corporation as a Front End
 <li> 📫 Mail me : pranomvignesh@gmail.com </li>
 <li> 😄 Pronouns: He/Him </li>
 
+<br/>
+
 **Fun fact**: My birthday is 26/03/1997 => Which is a prime number (26031997) - check out the gist [here](https://gist.github.com/Pranomvignesh/0ef3d413d3efb8de6504aafa2fc5f836)
 
