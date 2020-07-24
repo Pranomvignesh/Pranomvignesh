@@ -19,4 +19,8 @@ Hi, My name is Vignesh, I'm currently working in Zoho Corporation as a Front End
 
 ### Stats
 
-[![PranomVigensh's github stats](https://github-readme-stats.vercel.app/api?username=Pranomvignesh)](https://github.com/anuraghazra/github-readme-stats)
+[![PranomVigensh's github stats](https://github-readme-stats.vercel.app/api?username=Pranomvignesh&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+### Languages Used
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranomvignesh&hide=c)](https://github.com/anuraghazra/github-readme-stats)
