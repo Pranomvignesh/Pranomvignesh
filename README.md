@@ -8,10 +8,10 @@ Hi, My name is Vignesh, I'm currently working in Zoho Corporation as a Front End
 
 <br/>
 
-<li> :thought_balloon: I’m currently learning React,Figma </li>
+<li> :seedling: I’m currently learning React,Figma </li>
 <li> 💬 Ask me about Javascript </li>
-<li> :email: Mail me : pranomvignesh@gmail.com </li>
-<li> :grin: Pronouns: He/Him </li>
+<li> :mailbox: Mail me : pranomvignesh@gmail.com </li>
+<li> :man: Pronouns: He/Him </li>
 
 <br/>
 
