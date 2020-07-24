@@ -1,16 +1,17 @@
-### Hi there I'm Vignesh 👋
+## Hi there, I'm [Vignesh](https://pranomvignesh.netlify.app/) 👋
 
-<!--
-**Pranomvignesh/Pranomvignesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, My name is Vignesh, I'm currently working in Zoho Corporation as a Front End Framework Developer. I'm proficient in Javascript and very enthusiastic to talk about it. Although I pursued my Bachelors in Mechanical Engg., I quickly adopted the programming skills as it was so fascinating to do.
+
+<br/>
+
+<li> 🌱 I’m currently learning React,Figma </li>
+<li> 💬 Ask me about Javascript </li>
+<li> 📫 Mail me : pranomvignesh@gmail.com </li>
+<li> 😄 Pronouns: He/Him </li>
+
+**Fun fact**: My birthday is 26/03/1997 => Which is a prime number (26031997) - check out the gist [here](https://gist.github.com/Pranomvignesh/0ef3d413d3efb8de6504aafa2fc5f836)
+
