@@ -1,4 +1,6 @@
-## Hi there, I'm [Vignesh](https://pranomvignesh.netlify.app/) 👋
+## Hi guys, I'm [Vignesh](https://pranomvignesh.netlify.app/) 👋
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vigneshp0326/)
 
 <br/>
 
