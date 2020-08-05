@@ -1,6 +1,9 @@
 ## Hi guys, I'm [Vignesh](https://pranomvignesh.netlify.app/) 👋
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vigneshp0326/)
+<a href="https://dev.to/pranomvignesh">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Pranom Vignesh's DEV Profile" height="30" width="30">
+</a>
 
 ### :snowman:  About me
 
