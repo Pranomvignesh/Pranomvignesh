@@ -11,7 +11,7 @@ I'm currently working in Zoho Corporation as a Front End Framework Developer. I'
 
 <br/>
 
-<li> :seedling: I’m currently learning React,Figma </li>
+<li> :seedling: I’m currently learning React,Figma,Blender </li>
 <li> 💬 Ask me about Javascript </li>
 <li> :mailbox: Mail me : pranomvignesh@gmail.com </li>
 <li> :man: Pronouns: He/Him </li>
