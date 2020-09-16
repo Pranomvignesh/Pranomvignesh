@@ -7,7 +7,7 @@
 
 ### :snowman:  About me
 
-I'm currently working in Zoho Corporation as a Front End Framework Developer. I'm proficient in Javascript and very enthusiastic to talk about it. Although I pursued my Bachelors in Mechanical Engg., I quickly adopted the programming skills as it was so fascinating to do. I have an instagram page, where i post blogs about the javascript concept, check it out [here](https://www.instagram.com/javascript.enthusiast/)
+I'm currently working in Zoho Corporation as a Front End Framework Developer. I'm proficient in Javascript and very enthusiastic to talk about it. Although I pursued my Bachelors in Mechanical Engg., I quickly adopted the programming skills as it was so fascinating to do. I have an instagram page, where i post blogs about the javascript concept,please do check it out [here](https://www.instagram.com/javascript.enthusiast/)
 
 <br/>
 
