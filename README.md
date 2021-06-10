@@ -12,9 +12,9 @@ I'm currently working in Zoho Corporation as a Front End Framework Developer. I'
 
 - 🌱 I’m currently learning **React**,**Figma**
 
-- 👨‍💻 All of my projects are available at [https://pranomvignesh.vercel.app](pranomvignesh.vercel.app)
+- 👨‍💻 All of my projects are available at [my portfolio](http://pranomvignesh.vercel.app)
 
-- 📝 I regularly write articles on [https://dev.to/pranomvignesh](dev.to/pranomvignesh)
+- 📝 I regularly write articles on [dev.to blogs](http://dev.to/pranomvignesh)
 
 - 💬 Ask me about **Javascript**
 
