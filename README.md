@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pranom Vignesh</h1>
-<h3 align="center">A Javascript Enthusiast from India</h3>
+<h3 align="center"> 
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=02080B&lines=A+Javascript+Enthusiast+From+India)](https://git.io/typing-svg)
+
+</h3>
+
+
 
 ### :snowman:  About me
 
