@@ -1,29 +1,46 @@
-## Hi guys, I'm [Vignesh](https://pranomvignesh.netlify.app/) 👋
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vigneshp0326/)
-<a href="https://dev.to/pranomvignesh">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Pranom Vignesh's DEV Profile" height="30" width="30">
-</a>
+<h1 align="center">Hi 👋, I'm Pranom Vignesh</h1>
+<h3 align="center">A Javascript Enthusiast from India</h3>
 
 ### :snowman:  About me
 
 I'm currently working in Zoho Corporation as a Front End Framework Developer. I'm proficient in Javascript and very enthusiastic to talk about it. Although I pursued my Bachelors in Mechanical Engg., I quickly adopted the programming skills as it was so fascinating to do. I have an instagram page, where i post blogs about the javascript concept,please do check it out [here](https://www.instagram.com/javascript.enthusiast/)
 
-<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranomvignesh&label=My%20Profile%20views&color=5b8dec&style=flat-square" alt="pranomvignesh" /> </p>
 
-<li> :seedling: I’m currently learning React,Figma,Blender </li>
-<li> 💬 Ask me about Javascript </li>
-<li> :mailbox: Mail me : pranomvignesh@gmail.com </li>
-<li> :man: Pronouns: He/Him </li>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranomvignesh" alt="pranomvignesh" /></a> </p>
 
-<br/>
 
-**:boom: Fun fact**: My birthday is 26/03/1997 => Which is a prime number (26031997) - check out the gist [here](https://gist.github.com/Pranomvignesh/0ef3d413d3efb8de6504aafa2fc5f836)
+- 🌱 I’m currently learning **React**,**Figma**
 
-### :dart: Stats
+- 👨‍💻 All of my projects are available at [pranomvignesh.vercel.app](pranomvignesh.vercel.app)
 
-[![PranomVigensh's github stats](https://github-readme-stats.vercel.app/api?username=Pranomvignesh&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+- 📝 I regularly write articles on [dev.to/pranomvignesh](dev.to/pranomvignesh)
 
-### :zap: Languages Used
+- 💬 Ask me about **Javascript**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranomvignesh&hide=c)](https://github.com/anuraghazra/github-readme-stats)
+- 📫 How to reach me **pranomvignesh@gmail.com**
+
+- ⚡ Fun fact **My birthday (26-03-1997) is a prime number**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/pranomvignesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="pranomvignesh" height="30" width="40" /></a>
+<a href="https://dev.to/pranomvignesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="pranomvignesh" height="30" width="40" /></a>
+<a href="https://twitter.com/pranomvignesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranomvignesh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pranomvignesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranomvignesh" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranomvignesh&show_icons=true&theme=dark&locale=en&layout=compact" alt="pranomvignesh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranomvignesh&show_icons=true&theme=dark&locale=en" alt="pranomvignesh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranomvignesh&theme=dark" alt="pranomvignesh" /></p>
+
+
+
+
+
+
