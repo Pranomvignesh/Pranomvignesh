@@ -18,7 +18,7 @@ I'm currently working in Zoho Corporation as a Front End Framework Developer. I'
 
 - 💬 Ask me about **Javascript**
 
-- 📫 How to reach me **pranomvignesh@gmail.com**
+- 📫 Reach me at **pranomvignesh@gmail.com**
 
 - ⚡ Fun fact **My birthday (26-03-1997) is a prime number**
 
