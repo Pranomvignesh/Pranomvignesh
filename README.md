@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pranom Vignesh</h1>
+<h1 align="center">Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Pranom Vignesh</h1>
 
 
 ### :snowman:  About me
