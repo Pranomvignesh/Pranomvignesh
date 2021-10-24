@@ -14,8 +14,6 @@ I'm currently working in Zoho Corporation as a Front End Framework Developer. I'
 
 - 👨‍💻 All of my projects are available at [my portfolio](http://pranomvignesh.vercel.app)
 
-- 📝 I regularly write articles on [dev.to blogs](http://dev.to/pranomvignesh)
-
 - 💬 Ask me about **Javascript**
 
 - 📫 Reach me at **pranomvignesh@gmail.com**
