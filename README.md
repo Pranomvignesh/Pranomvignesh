@@ -42,3 +42,8 @@ I'm currently working in Zoho Corporation as a Front End Framework Developer. I'
 
 <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31n465dgmt222cyo6riqhapjnh6m) -->
 
+### My Dev Blogs:
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
