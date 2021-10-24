@@ -44,6 +44,9 @@ I'm currently working in Zoho Corporation as a Front End Framework Developer. I'
 
 ### My Dev Blogs:
 <!-- BLOG-POST-LIST:START -->
+- [Extend Language Configuration in Monaco Editor](https://dev.to/pranomvignesh/extend-language-configuration-in-monaco-editor-5fjo)
+- [Restrict Editable Area in Monaco Editor - Part 2](https://dev.to/pranomvignesh/restrict-editable-area-in-monaco-editor-part-2-14jb)
+- [Restrict Editable Area in Monaco Editor](https://dev.to/pranomvignesh/restrict-editable-area-in-monaco-editor-4hac)
 <!-- BLOG-POST-LIST:END -->
 
 
