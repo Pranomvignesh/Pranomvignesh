@@ -10,11 +10,11 @@ I'm currently working in Zoho Corporation as a Front End Framework Developer. I'
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranomvignesh" alt="pranomvignesh" /></a> </p> -->
 
 
-- 🌱 I’m currently learning **React**,**Figma**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [my portfolio](http://pranomvignesh.vercel.app)
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Javascript**,**Figma**
 
 - 📫 Reach me at **pranomvignesh@gmail.com**
 
