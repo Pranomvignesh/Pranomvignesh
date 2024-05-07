@@ -1,9 +1,10 @@
-<h1 align="center">Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Pranom Vignesh</h1>
+<h1 align="center">Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Vignesh Prakash</h1>
 
 
 ### :snowman:  About me
 
-I'm currently working in Zoho Corporation as a Front End Framework Developer. I'm proficient in Javascript and very enthusiastic to talk about it. Although I pursued my Bachelors in Mechanical Engg., I quickly adopted the programming skills as it was so fascinating to do. I have an instagram page, where i post blogs about the javascript concept,please do check it out [here](https://www.instagram.com/javascript.enthusiast/)
+Although my name is Vignesh, my complete digital identity goes by the name PranomVignesh. See what google says about me [here](https://www.google.com/search?q=Pranom+Vignesh)
+I'm currently working in Tiktok USDS as a Software Development Engineer. Prior to that, I worked as a Frontend Framework Developer in Zoho Corporation. I'm proficient in Javascript and very enthusiastic to talk about it. Although I pursued my Bachelors in Mechanical Engg., I quickly adopted the programming skills as it was so fascinating to do. I have an instagram page, where i post blogs about the javascript concept,please do check it out [here](https://www.instagram.com/javascript.enthusiast/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranomvignesh&label=My%20Profile%20views&color=5b8dec&style=flat-square" alt="pranomvignesh" /> </p>
 
